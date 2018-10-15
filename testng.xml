@@ -4,7 +4,7 @@
     <test name="Jira tests">
 
         <classes>
-            <class name="jira.AppiumTest"/>
+            <class name="jiracloud.AppiumTest"/>
         </classes>
     </test>
 
